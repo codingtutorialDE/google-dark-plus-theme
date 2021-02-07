@@ -1,6 +1,6 @@
 # Google Dark Plus Theme
 
-![Google Dark Plus Theme](https://user-images.githubusercontent.com/378023/80668639-595e9e00-8add-11ea-8673-4a481cc7e2dd.png)
+![Google Dark Plus Theme](https://i.pinimg.com/originals/43/b5/2f/43b52ff1f9731df2523beb0d43597cbf.png)
 
 ## Install
 
