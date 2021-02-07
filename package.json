@@ -2,6 +2,8 @@
     "name": "google-dark-plus",
     "displayName": "Google Dark+",
     "description": "Theme for Visual Studio inspired by Google Code Snippets UI",
+    "publisher": "Codingtutorial",
+    "repository": {"url": "https://github.com/codingtutorialDE/google-dark-plus-theme"},
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"

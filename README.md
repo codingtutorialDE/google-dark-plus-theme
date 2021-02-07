@@ -4,7 +4,7 @@
 
 ## Install
 
-1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Codingtutorial.google-dark-plus)
 2. Click on the "Install" button
 
 ## Override this theme
